@@ -1,0 +1,44 @@
+[
+  {
+    "id": "632df25792180076b26ab48c",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Tessa Hayden"
+  },
+  {
+    "id": "632df257c4243d1cdf731340",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Ida Duncan"
+  },
+  {
+    "id": "632df257a49dce71fde935ff",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Marion Porter"
+  },
+  {
+    "id": "632df257b0355c4279d4be48",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "brown",
+    "name": "Rosalind Morse"
+  },
+  {
+    "id": "632df2574ba7af9063940c20",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Chang Grimes"
+  },
+  {
+    "id": "632df2570c5d10c4ac429b3a",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "brown",
+    "name": "Juliet Haynes"
+  }
+]

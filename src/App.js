@@ -1,5 +1,5 @@
 import './App.css';
-import Cosmetics from './Cosmetics/Consmetics';
+import Cosmetics from './components/Cosmetics/Cosmetics';
 
 function App() {
   return (
